@@ -9,7 +9,7 @@ This software looks to showcase the theory of benfords law, which is essentially
 My purpose in writing this software was to get a better understanding of the syntax of other langauges and how to write functioning code in that langauge
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/S_jCHH9kiPY)
 
 # Development Environment
 
